@@ -15,6 +15,8 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts. <br/> 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&show_icons=true&hide_border=true)
 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0" alt="Recent Article 0"> 
+
 <!--
 **shivam1410/shivam1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -37,3 +39,5 @@ Here are some ideas to get you started:
 ![Shivam's Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&count_private=true&show_icons=true&hide_border=true&theme=radical)
 
 -->
+
+
