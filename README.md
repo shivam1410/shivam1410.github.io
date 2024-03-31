@@ -15,12 +15,13 @@ I'm a Software Engineering/CS 🇮🇳, I code for fun and write scripts. <br/> 
 ### My GitHub stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=shivam1410&show_icons=true&hide_border=true)
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/1" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/2" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/3" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/4" alt="Recent Article 0"> 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/5" alt="Recent Article 0"> 
+### Check out my Blogs
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/0" alt="Click Here"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/1" alt="Click Here"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/2" alt="Click Here"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/3" alt="Click Here"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/4" alt="Click Here"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@shivam1410/5" alt="Click Here"> 
 
 <!--
 **shivam1410/shivam1410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
